@@ -1,6 +1,7 @@
 ## Background
 
-Solve the name property missing after build
+Solve the name property missing after bundled.  
+
 When using this, you don't need to provide the name property manually anymore
 
 for example `/foo/bar/YourComponent.vue`: 
