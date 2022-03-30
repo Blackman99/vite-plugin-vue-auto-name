@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-vue-auto-name",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Vite plugin to automatically generate file names for Vue components",
   "type": "module",
   "main": "src/index.js",
@@ -8,6 +8,10 @@
   "keywords": ["vite", "vue", "auto-name"],
   "author": "Dongsheng",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Blackman99/vite-plugin-vue-auto-name.git"
+  },
   "scripts": {
     "build": "vite build"
   },
