@@ -1,0 +1,17 @@
+{
+  "name": "vite-plugin-vue-auto-name",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^2.8.6"
+  }
+}
