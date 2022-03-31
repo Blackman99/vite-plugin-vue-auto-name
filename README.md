@@ -11,7 +11,7 @@ for example `/foo/bar/YourComponent.vue`:
 // ... some scripts
 </script>
 <template>
-  // ... some dom
+  <!-- ... some dom -->
 </template>
 ```
 
